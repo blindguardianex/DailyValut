@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * Сущность, представляющая список всех известных валют.
+ * Сущность, представляющая список всех репозиторию известных валют.
  */
 @Data
 @NoArgsConstructor
